@@ -35,8 +35,8 @@ pip install -r requirements.txt
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/manasvchhabra/Strategy-Backtester
+   cd Strategy-Backtester
    ```
 
 2. Run the main script:
