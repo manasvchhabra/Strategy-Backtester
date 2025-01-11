@@ -56,12 +56,10 @@ EMA Crossover:
   Total Return: 79.67%
   5-Year CAGR: 10.54%
   Adjusted Return (Above Market): 2.03%
-  Adjusted 5-Year CAGR: 2.03%
 Bollinger Bands:
   Total Return: 42.30%
   5-Year CAGR: 6.50%
-  Adjusted Return (Above Market): -3.70%
-  Adjusted 5-Year CAGR: -1.20%
+  Adjusted Return (Above Market): -1.20%
 ```
 
 The framework also visualizes the results:
