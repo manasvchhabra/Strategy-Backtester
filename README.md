@@ -79,5 +79,6 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 - Strategy inspiration from various quantitative trading resources.
 
 ##  Future plans
-Will add more strategies including the use of lag embedding, ML models like XGBoost, hybrid models, etc.
 ---
+-  Will add more strategies including the use of lag embedding, ML models like XGBoost, hybrid models, etc.
+
